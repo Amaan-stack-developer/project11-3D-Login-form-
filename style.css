@@ -85,4 +85,8 @@ button:hover{
         background-color: #c7ddf0;
         margin-left: 0;
     }
+    .ancor{
+        width:80%;
+        font-size:15px;
+    }
 }
