@@ -87,6 +87,8 @@ button:hover{
     }
     .ancor{
         width:80%;
-        font-size:15px;
+    }
+    .ancor a{
+        font-size:10px;
     }
 }
