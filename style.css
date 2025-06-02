@@ -25,6 +25,8 @@ h2{
 .ancor{
     display: flex;
     justify-content: space-around;
+    width:80%;
+    margin-left:10%;
 }
 a{
     text-decoration: none;
